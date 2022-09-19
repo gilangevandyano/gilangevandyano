@@ -1,0 +1,21 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#54086B",
+        "activityBar.foreground": "#FF0BAC",
+        "activityBar.inactiveForeground": "#b65495",
+        "activityBar.activeBorder": "#abf794",
+        "activityBar.activeBackground": "#050833",
+        "activityBar.border": "#050833",
+        "titleBar.activeBackground": "#54086B",
+        "titleBar.activeForeground": "#FF0BAC",
+        "titleBar.inactiveBackground": "#4c165d",
+        "titleBar.inactiveForeground": "#b65495",
+        "titleBar.border": "#050833",
+        "statusBar.background": "#54086B",
+        "statusBar.foreground": "#FF0BAC",
+        "statusBar.border": "#050833"
+    },
+    "git.ignoreLimitWarning": true,
+    "cortex-debug.armToolchainPath": "${userRoot}/.eide/tools/gcc_arm\\bin",
+    "cortex-debug.JLinkGDBServerPath": "${userRoot}/.eide/tools/jlink\\JLinkGDBServerCL.exe"
+}
